@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123\\Downloads\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\123\\downloads\\winformsapp1\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\123\\downloads\\winformsapp1\\winformsapp1\\addeditproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\addeditproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\123\\downloads\\winformsapp1\\winformsapp1\\models\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\123\\downloads\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\AddEditProductForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddEditProductForm.cs",
+              "ToolTip": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\AddEditProductForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\AddEditProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:55:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MealPlan.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\Models\\MealPlan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\MealPlan.cs",
+              "ToolTip": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\Models\\MealPlan.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\MealPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:54:17.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T14:53:00.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\123\\Downloads\\WinFormsApp1\\WinFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAAAMgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:51:48.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
